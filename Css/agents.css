@@ -1,0 +1,114 @@
+body{
+	font-size: 20px;
+
+}
+
+
+.charle{
+box-shadow: 10px 5px 5px blueviolet;
+}
+
+thead{
+   font-size: 18px;
+   font-family: Times new roman;
+}
+
+tbody{
+   font-size: 16px;
+   font-style: italic;
+   font-weight: 500;
+}
+ .error{
+   font-style: italic;
+   color: red;
+   margin-bottom: 15px;
+   margin-left: 95px;
+   font-weight: 300;
+   text-align: center;
+}
+
+
+select:focus{
+	color: black;
+  background: lightcyan;
+  font-style: italic;
+  border: 2px dotted;
+}
+
+select{
+ 	height: 100%;
+   width: 100%;
+   border: 1px solid;
+}
+
+option{
+	font-style: italic;
+	font-family: serif;
+	font-weight: inherit;
+}
+
+.main-content{
+	position: relative;
+	top: 20px;
+	left: 20px;
+}
+.container-fluid{
+	background-color: whitesmoke;
+	width: 100%;
+	border: solid;
+}
+
+.form-control{
+font-size: 100%;
+  font-weight: bold;
+  border: 1px solid;
+
+}
+.btn{
+	width: 100%;
+}
+h2{
+font-family: Georgia, serif;
+color: whitesmoke;
+text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.content{
+	margin-bottom: 50px;
+	margin-top: 30px;
+	background: #11101d;
+	color: powderblue;
+	font-family: algerian;
+}
+
+label{
+	font-style: italic;
+	font-weight: bolder;
+	font-family: serif;
+}
+
+.form-control:focus {
+  color: black;
+  background: lightcyan;
+  font-style: italic;
+  border: 2px dotted;
+}
+
+.rows{
+margin: 30px;
+}
+
+.checked{
+	margin-left: 25%;
+}
+
+.form-check-label{
+	margin-left: 0px;
+	padding-right: 0px;
+	font-weight: inherit;
+}
+
+.col-content{
+	border-style: inset;
+}
+
